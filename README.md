@@ -24,6 +24,6 @@ To run `mean_pixel_int_calculator.ipynb`:
 2. Edit the `file_dir` and `file_extension` variable accordingly
 
 To run `pulse_calculator.m`:
-1. MatLab must be intalled
+1. MATLAB must be intalled
 2. Input .csv files must be placed in the working directory
 
